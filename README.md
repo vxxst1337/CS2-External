@@ -9,7 +9,7 @@ CS2 external cheat.
 
 ## NOTICE
 
-This source just used to study how to code a simple CS2 external hack systematically.
+This source just used to study how to code a simple CS2 external hack systematically
 
 这个源码仅供学习如何系统的写一套CS2外部辅助程序。
 
